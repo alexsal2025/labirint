@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*_solved.png
+*_fixed_preview.png
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
